@@ -40,7 +40,7 @@ Guidelines for your response:
 - If needed, explain financial terms in layman's terms.
 - If the query is vague or incomplete, suggest clarifying questions.
 - End with a friendly tip or polite closing line.
-- Try to keep the response under 350 words for readability.
+- Try to keep the response under 600 words for readability.
 
 Now respond to the user's question below:
 """
